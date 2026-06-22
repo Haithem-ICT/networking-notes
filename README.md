@@ -8,10 +8,10 @@ Welcome to my engineering reference manual. This repository serves as an evolvin
 
 Select a topic folder below to view full definitions, CLI configurations, and troubleshooting guides:
 
-* **[📁 Virtual Local Area Networks (VLANs)](./VLANs/)** - Layer 2 segmentation, access vs. trunk port configurations, and broadcast domain optimization.
-* **📁 Subnetting** *(Coming Soon)* - IP address allocation, CIDR notation blocks, and VLSM design patterns.
-* **📁 Static Routing** *(Coming Soon)* - Configuring next-hop paths and default routes across network boundaries.
-* **📁 DHCP & NAT** *(Coming Soon)* - Dynamic host configurations and network address translation architectures.
+* **[📁 Virtual Local Area Networks (VLANs)](./VLANs/)** - Layer 2 segmentation, access port configurations, and broadcast domain optimization.
+* **[📁 VLAN Trunking (802.1Q)](./Trunking/)** - Multi-VLAN backbone lanes, frame tagging mechanics, and native VLAN management.
+* **[📁 Router-on-a-Stick (ROAS)](./Router-on-a-Stick/)** - Inter-VLAN routing deployment, virtual subinterfaces, and logical default gateways.
+* **[📁 Spanning Tree Protocol (STP)](./STP/)** - Layer 2 loop prevention algorithms, link redundancy, and mismatch troubleshooting alerts.
 
 ---
 
